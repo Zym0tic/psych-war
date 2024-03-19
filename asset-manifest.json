@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/psych-war/static/css/main.2e51e444.css",
-    "main.js": "/psych-war/static/js/main.40e6b016.js",
-    "static/media/psycho-war-3.jpg": "/psych-war/static/media/psycho-war-3.7d8955f0682ed26d8cff.jpg",
-    "static/media/psycho-war-5.jpg": "/psych-war/static/media/psycho-war-5.5147014789ceb900d2e1.jpg",
-    "static/media/psycho-war-4.jpg": "/psych-war/static/media/psycho-war-4.7b396a9c62af3bf11289.jpg",
-    "static/media/psycho-war-9.jpg": "/psych-war/static/media/psycho-war-9.0549fb24f4a505d04342.jpg",
-    "static/media/psycho-war-6.jpg": "/psych-war/static/media/psycho-war-6.8c866c4aef859e4b24a9.jpg",
-    "static/media/psycho-war-7.jpg": "/psych-war/static/media/psycho-war-7.c2ccc809e338e859b551.jpg",
-    "static/media/psycho-war-2.jpg": "/psych-war/static/media/psycho-war-2.f26c6461daa87b493431.jpg",
-    "static/media/psycho-war-8.jpg": "/psych-war/static/media/psycho-war-8.5797ff391af7e9468ce9.jpg",
-    "static/media/IMG_1674 (1).jpg": "/psych-war/static/media/IMG_1674 (1).4ec722a5cf318232052b.jpg",
+    "main.js": "/psych-war/static/js/main.08735356.js",
     "static/media/bg.jpg": "/psych-war/static/media/bg.4ec722a5cf318232052b.jpg",
-    "static/media/IMG_1680.jpg": "/psych-war/static/media/IMG_1680.178c49d38ccb6ef47431.jpg",
     "static/media/IMG_1684.jpg": "/psych-war/static/media/IMG_1684.046ae5c4b3d007c247d2.jpg",
     "static/media/IMG_1683.jpg": "/psych-war/static/media/IMG_1683.078e2996b503b4f02831.jpg",
     "static/media/IMG_1685.jpg": "/psych-war/static/media/IMG_1685.9c67876c3b5e00cc61e6.jpg",
+    "static/media/psycho-war-5.jpg": "/psych-war/static/media/psycho-war-5.029a81b9be80baa6c96a.jpg",
+    "static/media/psycho-war-7.jpg": "/psych-war/static/media/psycho-war-7.fe3543fea9a100ff8425.jpg",
+    "static/media/psycho-war-3.jpg": "/psych-war/static/media/psycho-war-3.e271c85b2923a15e50cf.jpg",
+    "static/media/psycho-war-6.jpg": "/psych-war/static/media/psycho-war-6.1f1cd2dd5f7556e04f2b.jpg",
+    "static/media/psycho-war-9.jpg": "/psych-war/static/media/psycho-war-9.6fb79a1f48ca3d420648.jpg",
+    "static/media/psycho-war-2.jpg": "/psych-war/static/media/psycho-war-2.bb8f71247934b86fcdda.jpg",
+    "static/media/IMG_1674 (1).jpg": "/psych-war/static/media/IMG_1674 (1).943b7a88390fa3b2d18a.jpg",
+    "static/media/IMG_1680.jpg": "/psych-war/static/media/IMG_1680.3d8824803927ccdd42a7.jpg",
+    "static/media/psycho-war-4.jpg": "/psych-war/static/media/psycho-war-4.63ad4319d4c62b45d776.jpg",
+    "static/media/psycho-war-8.jpg": "/psych-war/static/media/psycho-war-8.416577f318f67846a08b.jpg",
     "static/media/pw_live.jpg": "/psych-war/static/media/pw_live.8cb11eff635da9f024a1.jpg",
     "static/media/demo23.jpg": "/psych-war/static/media/demo23.c84cb7becc9ecbfebae2.jpg",
     "static/media/IMG-20231108-WA0005.jpg": "/psych-war/static/media/IMG-20231108-WA0005.7934e6e0ac41bdb1a597.jpg",
@@ -31,10 +31,10 @@
     "static/media/IMG_20231115_130310_547.webp": "/psych-war/static/media/IMG_20231115_130310_547.0de13a28719636a3cdd5.webp",
     "index.html": "/psych-war/index.html",
     "main.2e51e444.css.map": "/psych-war/static/css/main.2e51e444.css.map",
-    "main.40e6b016.js.map": "/psych-war/static/js/main.40e6b016.js.map"
+    "main.08735356.js.map": "/psych-war/static/js/main.08735356.js.map"
   },
   "entrypoints": [
     "static/css/main.2e51e444.css",
-    "static/js/main.40e6b016.js"
+    "static/js/main.08735356.js"
   ]
 }
