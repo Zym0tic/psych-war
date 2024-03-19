@@ -1,5 +1,4 @@
-import Logo from '../src/svg/HVMΛNE.svg';
-import Logo2 from '../src/svg/HVMANEwhite.svg';
+import Logo from '../src/svg/PSYCH_WAR WHITE (1).svg';
 //import about photos
 import img1 from '../src/img/about/1hristo-4405.jpeg';
 import img2 from '../src/img/about/1hristo-4430.jpg';
@@ -38,7 +37,6 @@ export const heroData = {
   subtitle:
     '"I learned many languages, not all of them human. Music has always been a big part of my existence, connecting me with reality, and accompanying my life path with messages from within so deep, sometimes they take me decades to unravel." ',
   btnText: 'ENTER SITE',
-  logo: Logo2,
 };
 
 export const navData = {
