@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.56165b76.css",
-    "main.js": "/static/js/main.71657ad5.js",
-    "static/media/bg.jpg": "/static/media/bg.4ec722a5cf318232052b.jpg",
-    "static/media/pw_live.jpg": "/static/media/pw_live.8cb11eff635da9f024a1.jpg",
-    "static/media/demo23.jpg": "/static/media/demo23.c84cb7becc9ecbfebae2.jpg",
-    "static/media/fuck_genocide.png": "/static/media/fuck_genocide.69959c30330a7c996274.png",
-    "static/media/PSYCH_WAR WHITE (1).svg": "/static/media/PSYCH_WAR WHITE (1).d74ca60f2069ee79ce286e0e86661280.svg",
-    "index.html": "/index.html",
-    "main.56165b76.css.map": "/static/css/main.56165b76.css.map",
-    "main.71657ad5.js.map": "/static/js/main.71657ad5.js.map"
+    "main.css": "/psych-war/static/css/main.2e51e444.css",
+    "main.js": "/psych-war/static/js/main.793b0634.js",
+    "static/media/bg.jpg": "/psych-war/static/media/bg.4ec722a5cf318232052b.jpg",
+    "static/media/pw_live.jpg": "/psych-war/static/media/pw_live.8cb11eff635da9f024a1.jpg",
+    "static/media/demo23.jpg": "/psych-war/static/media/demo23.c84cb7becc9ecbfebae2.jpg",
+    "static/media/fuck_genocide.png": "/psych-war/static/media/fuck_genocide.69959c30330a7c996274.png",
+    "static/media/PSYCH_WAR WHITE (1).svg": "/psych-war/static/media/PSYCH_WAR WHITE (1).d74ca60f2069ee79ce286e0e86661280.svg",
+    "index.html": "/psych-war/index.html",
+    "main.2e51e444.css.map": "/psych-war/static/css/main.2e51e444.css.map",
+    "main.793b0634.js.map": "/psych-war/static/js/main.793b0634.js.map"
   },
   "entrypoints": [
-    "static/css/main.56165b76.css",
-    "static/js/main.71657ad5.js"
+    "static/css/main.2e51e444.css",
+    "static/js/main.793b0634.js"
   ]
 }
