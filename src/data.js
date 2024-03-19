@@ -1,24 +1,9 @@
 import Logo from '../src/svg/PSYCH_WAR WHITE (1).svg';
 //import about photos
-import img1 from '../src/img/about/fuck_genocide.png';
-import img2 from '../src/img/about/pw_live.jpg'
+import img1 from '../src/img/about/pw_live.jpg'
+import img2 from '../src/img/about/fuck_genocide.png';
 //import discography photos
-import todayEp from '../src/img/discography/today-ep.png';
-import deadDogsSingle from '../src/img/discography/dead-dogs-single.png';
-//import pdf's
-import pdf1 from '../src/pdf/Stay-Humane-Guitar.pdf';
-import pdf2 from '../src/pdf/Stay-Humane-Ukulele.pdf';
-import pdf3 from '../src/pdf/Dont Cry-Humane.pdf';
-import pdf4 from '../src/pdf/Black Horses-Humane-Capo.pdf';
-import pdf5 from '../src/pdf/Black Horses-Humane-Ukulele.pdf';
-import pdf6 from '../src/pdf/Black Horses-Humane-Concert Key.pdf';
-import pdf7 from '../src/pdf/Blue Pills ~ Humane ~ Guitar.pdf';
-import pdf8 from '../src/pdf/Blue Pills ~ Humane ~ Ukulele.pdf';
-import pdf9 from '../src/pdf/Dead Dogs _ Humane _ Guitar.pdf';
-import pdf10 from '../src/pdf/Dead Dogs _ Humane _ Guitar w.Capo.pdf';
-import pdf11 from '../src/pdf/Dead Dogs _ Humane _ Ukulele.pdf';
-import pdf12 from '../src/pdf/Today ~ Humane ~ Guitar.pdf';
-import pdf13 from '../src/pdf/Today ~ Humane ~ Ukulele.pdf';
+import demo23 from '../src/img/discography/demo23.jpg';
 //import icons
 import { AiFillInstagram } from 'react-icons/ai';
 import { FaSpotify, FaYoutube } from 'react-icons/fa';
@@ -62,7 +47,7 @@ export const aboutData = {
   items: [
     {
       subtitle:
-        'Psych-War Was formed in January 2023 in Philadelphia, PA. Playing uncompromising Hardcore in the vein of the swedish classics ANTI-CIMEX, DISFEAR, SHITLICKERS, ETC. We are strictly against war, genocide, imperialism, fascism, racism, antisemetism, sexism, and homophobia! FREE PALESTINE!',
+        'Psych-War Was formed in January 2023 in Philadelphia, PA. Playing uncompromising Hardcore-Punk in the vein of the swedish classics ANTI-CIMEX, DISFEAR, SHITLICKERS, ETC. We are strictly against war, genocide, imperialism, fascism, racism, antisemetism, sexism, and homophobia! FREE PALESTINE!',
       img: img1,
       img2: img2,
     },
@@ -76,185 +61,82 @@ export const slides = [
 export const discographyData = {
   items: [
     {
-      title: 'TODAY EP',
-      img: todayEp,
+      title: 'DEMO \'23',
+      img: demo23,
       tracks: [
         {
-          songtitle: 'Stay',
-          writer: 'Hvmane',
-          recordingEng: 'Blaine Misner',
-          masteringEng: 'Mike Monseur',
-          vocals: 'Hvmane, Mary Lankford',
-          guitar: 'Hvmane',
-          percussion: 'Blaine Minser',
-          bass: 'Blaine Misner',
-          keys: 'Blaine Misner',
-          arrangements: 'Hvmane, Blaine Minser',
-          composers: 'Hvmane',
-          cello: 'Erin Snedecor',
-          Studio: 'Cue Recording Studio',
-          label: 'Hvmane Records',
-          href: 'https://open.spotify.com/track/4GRbAOgK3mU0HLTF4BCtYw?si=94c3e7a92d3041bf',
+          songtitle: 'Intro / No Escape',
+          writer: 'Psych-War',
+          recordingEng: 'Trish Quigley',
+          masteringEng: 'Janne Juttila',
+          vocals: 'Ryan',
+          guitar: 'Luke, Frank',
+          percussion: 'Chris',
+          bass: 'Devin',
+          label: 'Sore Mind',
+          href: 'https://open.spotify.com/track/3Gf9jdPARTaW6V8j1guRZn?si=0a19ea91e23f41c6',
         },
         {
-          songtitle: 'Blue Pills',
-          writer: 'Hvmane',
-          recordingEng: 'Blaine Misner',
-          masteringEng: 'Mike Monseur',
-          vocals: 'Hvmane',
-          guitar: 'Hvmane, Blaine Minser',
-          percussion: 'Blaine Minser',
-          bass: 'Blaine Minser',
-          keys: 'Blaine Minser',
-          accordion: 'Hvmane',
-          arrangements: 'Hvmane, Blaine Minser',
-          composers: 'Hvmane',
-          Studio: 'Cue Recording Studio',
-          label: 'Hvmane Records',
-          href: 'https://open.spotify.com/track/1IX5vNc6BmbpkbU1tEh3l6?si=1b95ba44fc794978',
+          songtitle: 'Screams at the Sky',
+          writer: 'Psych-War',
+          recordingEng: 'Trish Quigley',
+          masteringEng: 'Janne Juttila',
+          vocals: 'Ryan',
+          guitar: 'Luke, Frank',
+          percussion: 'Chris',
+          bass: 'Devin',
+          label: 'Sore Mind',
+          href: 'https://open.spotify.com/track/1layN3lRihFKGHKsIPDVqk?si=a8e6edcf06e64cab',
         },
         {
-          songtitle: 'Today',
-          writer: 'Hvmane',
-          recordingEng: 'Blaine Misner',
-          masteringEng: 'Mike Monseur',
-          vocals: 'Hvmane',
-          guitar: 'Hvmane',
-          percussion: 'Blaine Minser',
-          bass: 'Blaine Minser',
-          key: 'Blaine Minser',
-          arrangements: 'Hvmane, Blaine Minser',
-          composers: 'Hvmane',
-          Studio: 'Cue Recording Studio',
-          label: 'Hvmane Records',
-          href: 'https://open.spotify.com/track/67A5FhB17IuV0X6kQKCW13?si=69654f65e82b4616',
+          songtitle: 'The Blood',
+          writer: 'Psych-War',
+          recordingEng: 'Trish Quigley',
+          masteringEng: 'Janne Juttila',
+          vocals: 'Ryan',
+          guitar: 'Luke, Frank',
+          percussion: 'Chris',
+          bass: 'Devin',
+          label: 'Sore Mind',
+          href: 'https://open.spotify.com/track/1FCRgCJYawYQoL36tBCnAB?si=3f65b8236c5c4ef4',
         },
         {
-          songtitle: 'Black Horses',
-          writer: 'Hvmane',
-          recordingEng: 'Blaine Misner',
-          masteringEng: 'Mike Monseur',
-          vocals: 'Hvmane',
-          guitar: 'Hvmane, Blaine Minser',
-          percussion: 'Blaine Minser',
-          bass: 'Blaine Minser',
-          key: 'Blaine Minser',
-          arrangements: 'Hvmane, Blaine Minser',
-          composers: 'Hvmane',
-          Studio: 'Cue Recording Studio',
-          label: 'Hvmane Records',
-          href: 'https://open.spotify.com/track/7mAsYzWT7w2mUKU5BA5Z3v?si=55e674013d444073',
+          songtitle: 'Take Me to Hell',
+          writer: 'Psych-War',
+          recordingEng: 'Trish Quigley',
+          masteringEng: 'Janne Juttila',
+          vocals: 'Ryan',
+          guitar: 'Luke, Frank',
+          percussion: 'Chris',
+          bass: 'Devin',
+          label: 'Sore Mind',
+          href: 'https://open.spotify.com/track/5wqOuH4XvbWBqGHUiFERpN?si=42205528b6654267',
         },
         {
-          songtitle: "Don't Cry",
-          writer: 'Hvmane',
-          recordingEng: 'Blaine Misner',
-          masteringEng: 'Mike Monseur',
-          vocals: 'Hvmane, Mary Lankford',
-          guitar: 'Hvmane, Rhys',
-          percussion: 'Blaine Minser',
-          bass: 'Blaine Minser, Blade Ronetz',
-          key: 'Blaine Minser, Blade Ronetz',
-          arrangements: 'Hvmane, Blaine Minser',
-          composers: 'Hvmane',
-          cello: 'Erin Snedecor',
-          Studio: 'Cue Recording Studio',
-          label: 'Hvmane Records',
-          href: 'https://open.spotify.com/track/1A0URnZlju8qarn1stuZ7G?si=388a8beede914a20',
-        },
-      ],
-    },
-    {
-      title: 'DEAD DOGS (Single)',
-      img: deadDogsSingle,
-      tracks: [
-        {
-          songtitle: 'Dead Dogs',
-          writer: 'Hvmane',
-          recordingEng: 'Blaine Misner',
-          masteringEng: 'Mike Monseur',
-          vocals: 'Hvmane',
-          guitar: 'Hvmane, Blaine Minser',
-          percussion: 'Blaine Minser',
-          bass: 'Blaine Minser',
-          key: 'Blaine Minser',
-          arrangements: 'Hvmane, Blaine Minser',
-          composers: 'Hvmane',
-          whistle: 'Hvmane',
-          Studio: 'Cue Recording Studio',
-          label: 'Hvmane Records',
-          href: 'https://open.spotify.com/track/5YONFDgf0SJEyi7OrCvKSe?si=2508631c2c654c0b',
+          songtitle: 'Gnossienne no.1 / All Night Long',
+          writer: 'Psych-War',
+          recordingEng: 'Trish Quigley',
+          masteringEng: 'Janne Juttila',
+          vocals: 'Ryan',
+          guitar: 'Luke, Frank',
+          percussion: 'Chris',
+          keys: 'A.B',
+          bass: 'Devin',
+          label: 'Sore Mind',
+          href: 'https://open.spotify.com/track/4Y7j0UzuDeytLqjZkEP9UG?si=76a93a9170dc46cb',
         },
       ],
     },
   ],
 };
 
-
-export const tabsData = {
-  sub: 'click the links to view PDF',
-  items: [
-    {
-      href: pdf4,
-      subtitle: 'Black Horses(Capo) PDF',
-    },
-    {
-      href: pdf6,
-      subtitle: 'Black Horses(concert Key) PDF',
-    },
-    {
-      href: pdf5,
-      subtitle: 'Black Horses(Ukulele) PDF',
-    },
-    {
-      href: pdf7,
-      subtitle: 'Blue Pills(Guitar) PDF',
-    },
-    {
-      href: pdf8,
-      subtitle: 'Blue Pills(Ukulele) PDF',
-    },
-    {
-      href: pdf9,
-      subtitle: 'Dead Dogs(Guitar) PDF',
-    },
-    {
-      href: pdf10,
-      subtitle: 'Dead Dogs(Capo) PDF',
-    },
-    {
-      href: pdf11,
-      subtitle: 'Dead Dogs(Ukulele) PDF',
-    },
-    {
-      href: pdf3,
-      subtitle: "Don't Cry(Guitar) PDF",
-    },
-    {
-      href: pdf1,
-      subtitle: 'Stay(Guitar) PDF',
-    },
-    {
-      href: pdf2,
-      subtitle: 'Stay(Ukulele) PDF',
-    },
-    {
-      href: pdf12,
-      subtitle: 'Today(Guitar) PDF',
-    },
-    {
-      href: pdf13,
-      subtitle: 'Today(Ukulele) PDF',
-    },
-  ],
-};
 
 export const footerData = {
   about: {
-    title: 'HVMΛNE',
+    title: 'PSYCH-WAR',
     subtitle: 'For getting in touch you can send and email to:',
     email: {
-      address: 'hvmane@gmail.com(placeholder)',
+      address: 'veteransofthepsychicwar@gmail.com',
     },
   },
   links: {

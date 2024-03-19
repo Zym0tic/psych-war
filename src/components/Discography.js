@@ -25,7 +25,7 @@ function Discography() {
         <div className="flex items-center">
           <div className="flex-1 h-full xl:mt-30">
             <div className="flex flex-col items-center">
-              <div className="max-w-[700px] text-header">
+              <div className="max-w-[700px] text-accent">
                 <ul className="py-7">
                   {items.map((item, index) => {
                     const { title, img, tracks } = item;
@@ -56,20 +56,14 @@ function Discography() {
                                 </a>
                               </div>
                               <button
-                                className="hover:border-b-2 hover:border-header transition duration-300 cursor-pointer"
+                                className="hover:border-b-2 hover:border-header transition duration-300 cursor-pointer text-sm"
                                 onClick={() => handleTrackClick(track)}
                               >
-                                Debts
+                                Credits
                               </button>
                             </div>
                           ))}
                         </ul>
-                        <Link
-                          to="../tabs"
-                          className="underline hover:border-b-2 hover:border-dark transition duration-300 cursor-pointer"
-                        >
-                          Click to view music tabs
-                        </Link>
                       </div>
                     );
                   })}

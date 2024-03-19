@@ -12,7 +12,7 @@ function Modal({open, onClose, children}) {
         ${open ? "scale-100 opacity-100 px-5" : "scale-125 opacity-0"}`}>
             <button 
             onClick={onClose}
-            className='absolute top-2 right-2 p-1 rounded-lg text-dark font-bold bg-header hover:text-gray-600'>
+            className='absolute top-2 right-2 p-1 rounded-lg text-accent font-bold bg-header hover:text-gray-600'>
                 close
             </button>
         {children}

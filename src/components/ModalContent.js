@@ -22,7 +22,7 @@ const ModalContent = ({ track }) => {
 
   return (
     <div className="w-100">
-      <div className="text-dark">
+      <div className="text-accent">
         <p className="pb-10 text-accent font-bold flex md:justify-center">{songtitle}</p>
         {writer && <p>Written by: {writer}</p>}
         {recordingEng && <p>Recording Engineer: {recordingEng}</p>}
