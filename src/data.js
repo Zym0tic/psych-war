@@ -39,7 +39,7 @@ export const heroData = {
   logo: Logo,
   subtitle:
     'FUCK IMPERIALISM, FUCK GENOCIDE, ANTI WAR!',
-  btnText: 'ENTER SITE',
+  btnText: 'ENTER',
 };
 
 export const navData = {
