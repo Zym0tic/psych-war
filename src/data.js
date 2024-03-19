@@ -33,7 +33,7 @@ export const headerData = {
 };
 
 export const heroData = {
-  title: 'HVMΛNE',
+  logo: Logo,
   subtitle:
     '"I learned many languages, not all of them human. Music has always been a big part of my existence, connecting me with reality, and accompanying my life path with messages from within so deep, sometimes they take me decades to unravel." ',
   btnText: 'ENTER SITE',

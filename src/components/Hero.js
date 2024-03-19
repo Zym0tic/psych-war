@@ -16,7 +16,7 @@ const container = {
 };
 
 const Hero = () => {
-  const { title, subtitle, btnText } = heroData;
+  const { logo, subtitle, btnText } = heroData;
   return (
     <section className="bg-hero bg-cover bg-[center_right_-35rem] min-h-[100vh] md:bg-left lg:h-[100vh] bg-no-repeat lg:bg-top flex items-center">
       <motion.div
@@ -27,7 +27,7 @@ const Hero = () => {
       >
         <div className="text-white text-center lg:text-left lg:max-w-[640px]">
           <motion.div variants={fadeIn("down")} className="h1 pt-10">
-            {title}
+          <img className="w-[400px]" src={logo} alt="Psych-war Logo" />
           </motion.div>
           <motion.p
             variants={fadeIn("down")}

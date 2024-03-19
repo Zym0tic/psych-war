@@ -31,7 +31,7 @@ const Header = () => {
       <div className="flex justify-between items-center h-full pl-[50px] pr-[60px]">
         {/* logo */}
         <Link to="/">
-          <img className="h-[70px]" src={logo} alt="Hvmane Logo" />
+          <img className="h-[70px]" src={logo} alt="Psych-war Logo" />
         </Link>
         {/* nav hidden mobile*/}
         <div className="hidden lg:flex">
