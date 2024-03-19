@@ -4,13 +4,13 @@ function TermsOfService() {
   return (
     <section className="container mx-auto py-8 lg:py-16 px-4 lg:px-0 pt-[150px] lg:pt-[190px]">
       <div className="font-primary max-w-3xl mx-auto">
-        <h1 className="text-3xl lg:text-4xl font-bold text-accent mb-6 lg:mb-10">Terms of Service for hvmane.com</h1>
+        <h1 className="text-3xl lg:text-4xl font-bold text-accent mb-6 lg:mb-10">Terms of Service for psych-war.com</h1>
         <div className="space-y-10">
           <div>
             <h2 className="text-2xl lg:text-3xl font-bold">1. Introduction</h2>
             <p className='pb-[20px]'>
               1.1. These Terms of Service ("Terms") govern the use of hvmane.com
-              ("the Website") operated by Hvmane Entertainment ("we", "us", or
+              ("the Website") operated by PSYCH-WAR ("we", "us", or
               "our"). By accessing or using the Website, you agree to comply with
               these Terms.
             </p>
@@ -40,7 +40,7 @@ function TermsOfService() {
             <p className='pb-[20px]'>
               4.1. The content, features, and functionality of the Website,
               including but not limited to text, graphics, logos, images, and
-              software, are the property of Hvmane Entertainment or its licensors
+              software, are the property of PSYCH-WAR or its licensors
               and are protected by copyright, trademark, and other intellectual
               property laws.
             </p>
@@ -113,7 +113,7 @@ function TermsOfService() {
           <div>
             <h2 className="text-2xl lg:text-3xl font-bold">10. Indemnification</h2>
             <p className='pb-[20px]'>
-              10.1. You agree to indemnify and hold harmless Hvmane Entertainment,
+              10.1. You agree to indemnify and hold harmless PSYCH-WAR,
               its officers, directors, employees, and agents from and against any
               claims, liabilities, damages, losses, and expenses, including
               reasonable attorneys' fees, arising out of or in connection with your
@@ -124,7 +124,7 @@ function TermsOfService() {
             <h2 className="text-2xl lg:text-3xl font-bold">11. Governing Law</h2>
             <p className='pb-[20px]'>
               11.1. These Terms shall be governed by and construed in accordance
-              with the laws of Virginia, without regard to its conflict of law
+              with the laws of Pennsylvania, without regard to its conflict of law
               principles.
             </p>
           </div>
@@ -134,7 +134,7 @@ function TermsOfService() {
               12.1. Any dispute arising out of or relating to these Terms or your
               use of the Website shall be resolved exclusively by binding
               arbitration conducted in accordance with the [arbitration rules]. The
-              arbitration shall take place in Virginia, and the arbitrator's
+              arbitration shall take place in Pennsylvania, and the arbitrator's
               decision shall be final and binding.
             </p>
           </div>
