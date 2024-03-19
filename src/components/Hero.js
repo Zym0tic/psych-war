@@ -18,7 +18,7 @@ const container = {
 const Hero = () => {
   const { logo, subtitle, btnText } = heroData;
   return (
-    <section className="bg-hero bg-cover bg-[center_right_-35rem] min-h-[100vh] md:bg-left lg:h-[100vh] bg-no-repeat lg:bg-top flex items-center">
+    <section className="bg-hero bg-cover bg-[center_right_-40rem] min-h-[100vh] md:bg-left lg:h-[100vh] bg-no-repeat lg:bg-center flex items-center">
       <motion.div
         variants={container}
         initial="hidden"
@@ -44,13 +44,13 @@ const Hero = () => {
           </motion.div>
           {/* Social media icons */}
           <motion.div variants={fadeIn("down")} className="flex justify-center lg:justify-start mt-8">
-            <a href="https://open.spotify.com/artist/64yI5sRzbBp0M7vAaYearY" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
+            <a href="https://open.spotify.com/artist/3GXwI499LdLZlvbi5k6XnR" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
               <FaSpotify size={32} />
             </a>
-            <a href="https://www.instagram.com/hvmane_official/" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
+            <a href="https://www.instagram.com/psychwar_official/" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
               <FaInstagram size={32} />
             </a>
-            <a href="https://www.youtube.com/@HVMANE_OFFICIAL" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
+            <a href="https://www.youtube.com/watch?v=q41LrX4CoaU" target="_blank" rel="noopener noreferrer" className="text-white mx-2">
               <FaYoutube size={32} />
             </a>
           </motion.div>

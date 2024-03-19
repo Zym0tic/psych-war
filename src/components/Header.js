@@ -31,7 +31,7 @@ const Header = () => {
       <div className="flex justify-between items-center h-full pl-[50px] pr-[60px]">
         {/* logo */}
         <Link to="/">
-          <img className="h-[70px]" src={logo} alt="Psych-war Logo" />
+          <img className="h-[50px] lg:h-[70px]" src={logo} alt="Psych-war Logo" />
         </Link>
         {/* nav hidden mobile*/}
         <div className="hidden lg:flex">
@@ -40,7 +40,7 @@ const Header = () => {
         {/* nav menu btn hidden desktop*/}
         <div
           onClick={() => setNavMobile(!navMobile)}
-          className="lg:hidden absolute right-[5%] bg-header text-dark p-2 rounded-md cursor-pointer"
+          className="lg:hidden absolute right-[5%] bg-header text-accent p-2 rounded-md cursor-pointer"
         >
           <TiThMenu className="text-3xl" />
         </div>

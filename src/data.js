@@ -1,12 +1,7 @@
 import Logo from '../src/svg/PSYCH_WAR WHITE (1).svg';
 //import about photos
-import img1 from '../src/img/about/1hristo-4405.jpeg';
-import img2 from '../src/img/about/1hristo-4430.jpg';
-import img3 from '../src/img/about/1hristo-4462.jpg';
-import img4 from '../src/img/about/1hristo-4497.jpg';
-import img5 from '../src/img/about/1hristo-4499.jpg';
-import img6 from '../src/img/about/1hristo-4506.jpg';
-import img7 from '../src/img/about/1hristo-8338.jpg';
+import img1 from '../src/img/about/fuck_genocide.png';
+import img2 from '../src/img/about/pw_live.jpg'
 //import discography photos
 import todayEp from '../src/img/discography/today-ep.png';
 import deadDogsSingle from '../src/img/discography/dead-dogs-single.png';
@@ -35,7 +30,7 @@ export const headerData = {
 export const heroData = {
   logo: Logo,
   subtitle:
-    '"I learned many languages, not all of them human. Music has always been a big part of my existence, connecting me with reality, and accompanying my life path with messages from within so deep, sometimes they take me decades to unravel." ',
+    'FUCK IMPERIALISM, FUCK GENOCIDE, ANTI WAR!',
   btnText: 'ENTER SITE',
 };
 
@@ -50,15 +45,15 @@ export const navData = {
 
 export const socialData = [
   {
-    href: 'https://www.instagram.com/hvmane_official/',
+    href: 'https://www.instagram.com/psychwar_official/',
     icon: <AiFillInstagram />,
   },
   {
-    href: 'https://spotify.link/H7FSWMF8ZDb',
+    href: 'https://open.spotify.com/artist/3GXwI499LdLZlvbi5k6XnR',
     icon: <FaSpotify />,
   },
   {
-    href: 'https://www.youtube.com/@HVMANE_OFFICIAL',
+    href: 'https://www.youtube.com/watch?v=q41LrX4CoaU',
     icon: <FaYoutube />,
   },
 ];
@@ -67,60 +62,15 @@ export const aboutData = {
   items: [
     {
       subtitle:
-        'I was Born in 1974 in Bulgaria to a musically inclined family. By age 4 I was already whistling, humming, and singing all the sounds around me.',
-      subtitle1:
-        'Since I was very young, I found out white noise caused me to ‘hear’ music and compose original pieces in my head that were big and grandiose. Symphonies of harmonies and instruments flooded my brain on a regular basis, and every car ride was a concert in my head. ',
-      subtitle2:
-        'At home, I was infused with the rock music of the 60’s and 70’s while growing up in the vibes of the 80’s and 90’s on the street. I loved all music. Original Bulgarian folklore had also left its mark with its magical rhythms, dances, and harmonies.',
-      subtitle3:
-        'By age 6 I had started playing my grandfather’s accordion and learning songs on my dad’s guitar. There was a tambourine at home, my mom’s melodica and harmonica, later electric pianos, I’d play anything that made a sound.',
+        'Psych-War Was formed in January 2023 in Philadelphia, PA. Playing uncompromising Hardcore in the vein of the swedish classics ANTI-CIMEX, DISFEAR, SHITLICKERS, ETC. We are strictly against war, genocide, imperialism, fascism, racism, antisemetism, sexism, and homophobia! FREE PALESTINE!',
       img: img1,
-    },
-    {
-      subtitle:
-        'I absolutely loved the guitar and by age 9 I transitioned to acoustic guitar as a main instrument and began taking lessons. I remember writing my first songs at age 10.',
-      subtitle1:
-        'I played lots of Spanish and Flamenco guitar in high school, while my exposure to musical influences continued to grow.',
-      subtitle2:
-        'I learned many languages, not all of them human. Music has always been a big part of my existence, connecting me with reality, and accompanying my life path with messages from within so deep, sometimes they take me decades to unravel.',
-      subtitle3:
-        "Through ups and ups and twists and turns in my 40's, I gave way to my soul, to my doggie, to HVMANE. Hundreds of poems, songs, and compositions descended upon me so hard and so fast. I was fully immersed. From some eternal abyss they came at me and sang me deep down into the sky.",
-      img: img2,
-    },
-    {
-      subtitle:
-        'I’ve always loved recording my music. Since a very young age, I played around with cassettes and reel-to-reel recorders. Eventually that love evolved into digital recording in home studios.',
-      subtitle1:
-        'By the start of the covid pandemic, I had written and composed so many songs, it started to get really heavy inside. The weight created a strong urge to record and release what I had written.',
-      subtitle2:
-        ' The covid lockdown brought an opportunity to focus on these songs and there began my quest to record them all. I met and collaborated with a very talented musical collective which we later dubbed ‘And The Mysteries’.',
-      img: img3,
+      img2: img2,
     },
   ],
 };
 
 export const slides = [
-  {
-    url: img4,
-  },
-  {
-    url: img5,
-  },
-  {
-    url: img6,
-  },
-  {
-    url: img7,
-  },
-  {
-    url: img1,
-  },
-  {
-    url: img2,
-  },
-  {
-    url: img3,
-  },
+
 ];
 
 export const discographyData = {
@@ -316,9 +266,9 @@ export const footerData = {
         name: 'Contact',
       },
       { href: '#/main/webstore', name: 'Webstore' },
-      { href: 'https://www.instagram.com/hvmane_official/', name: <AiFillInstagram /> },
-      { href: 'https://www.youtube.com/@HVMANE_OFFICIAL', name: <FaYoutube /> },
-      { href: 'https://spotify.link/H7FSWMF8ZDb', name: <FaSpotify /> },
+      { href: 'https://www.instagram.com/psychwar_official/', name: <AiFillInstagram /> },
+      { href: 'https://www.youtube.com/watch?v=q41LrX4CoaU', name: <FaYoutube /> },
+      { href: 'https://open.spotify.com/artist/3GXwI499LdLZlvbi5k6XnR', name: <FaSpotify /> },
     ],
   },
 };
