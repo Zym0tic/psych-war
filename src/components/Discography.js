@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { discographyData } from '../data';
-import { Link } from 'react-router-dom';
 import Modal from './Modal';
 import ModalContent from './ModalContent';
 import { FaSpotify } from 'react-icons/fa';
