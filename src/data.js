@@ -252,7 +252,7 @@ export const contactData = {
         'Send us an email if you would like to get in contact',
       email: {
         icon: 'email:',
-        address: 'hvmane@gmail.com',
+        address: 'veteransofthepsychicwar@gmail.com',
       },
       link: 'Get location',
     },
