@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/psych-war/static/css/main.2e51e444.css",
-    "main.js": "/psych-war/static/js/main.08735356.js",
+    "main.css": "/psych-war/static/css/main.a0502831.css",
+    "main.js": "/psych-war/static/js/main.7e92457d.js",
     "static/media/bg.jpg": "/psych-war/static/media/bg.4ec722a5cf318232052b.jpg",
     "static/media/IMG_1684.jpg": "/psych-war/static/media/IMG_1684.046ae5c4b3d007c247d2.jpg",
     "static/media/IMG_1683.jpg": "/psych-war/static/media/IMG_1683.078e2996b503b4f02831.jpg",
@@ -30,11 +30,11 @@
     "static/media/PSYCH_WAR WHITE (1).svg": "/psych-war/static/media/PSYCH_WAR WHITE (1).d74ca60f2069ee79ce286e0e86661280.svg",
     "static/media/IMG_20231115_130310_547.webp": "/psych-war/static/media/IMG_20231115_130310_547.0de13a28719636a3cdd5.webp",
     "index.html": "/psych-war/index.html",
-    "main.2e51e444.css.map": "/psych-war/static/css/main.2e51e444.css.map",
-    "main.08735356.js.map": "/psych-war/static/js/main.08735356.js.map"
+    "main.a0502831.css.map": "/psych-war/static/css/main.a0502831.css.map",
+    "main.7e92457d.js.map": "/psych-war/static/js/main.7e92457d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e51e444.css",
-    "static/js/main.08735356.js"
+    "static/css/main.a0502831.css",
+    "static/js/main.7e92457d.js"
   ]
 }
